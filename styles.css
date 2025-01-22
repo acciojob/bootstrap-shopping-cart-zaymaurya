@@ -1,1 +1,19 @@
 /*  your css code here. If applicable */
+body {
+    background-color: #f5f5f5;
+	font-family: Arial, sans-serif;
+}
+
+.block-heading {
+	Color: #3b99e0;
+}
+
+.summary {
+    border-top: 2px solid #5ea4f3;
+    background-color: #f7fbff;
+}
+
+.productContainer {
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
